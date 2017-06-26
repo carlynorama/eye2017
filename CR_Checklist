@@ -1,0 +1,74 @@
+Also See:
+https://pad.riseup.net/p/coderesistsecuritydataprivacychecklist
+
+Make Think Code
+
+- CheckList
+  - Everyday
+  - Activist
+  - For Developers
+
+1) Be Convincing
+  - weakest Link, Herd immunity
+    - Your parent/boss might be fooled by a message from your hacked account
+
+2) Password Manager
+  KeypassX
+  Padlock.io
+
+
+2) Secure Messaging
+  Use Signal
+    - Whatsapp is on top of Open Whisper IF private mode is on. Default is better. What is the UI warning
+    - The other person ALSO has to have fully secure options (no back up, Whatsapp save backups in plain text)
+    - Signal with a payphone?
+3) Fragmenting
+    - Have separate accounts.
+    - Have the conversation in different places
+    - Any information that is not encrypted will become public
+4) Opt out of sharing
+    - myactivity.google.com  periodically delete.
+
+5) Use a VPN*
+  - IF the problem is the WiFi and the ISP
+  - TheOnePrivacySite.net has the best reviews
+  - Algo open source VPN service - Medium how to set up Algo VPN
+
+6)TOR Project.org
+  - tor browser?
+
+
+7) Facial Recognition & Images
+  - media.ccc.de Adam Harvey Retail Counter Survaillence
+  - Exif mat metadata annon tool
+  - Virtual Line Up - Georgetown Policy Center?
+
+8) Call officials
+
+accessnow
+myshadow.org
+SANs - storm center podcast
+haveibeenpwned
+
+9) 2 factor auth .org? how to...
+
+  "Hold you boundries" Poetry about privacy and security
+
+Scripts to do random search
+Overlapping likes 0 see their likes
+
+Questions to Ask
+- Who made it
+- Why did they make it
+- How is funded
+  - Do they have funding to do a code review
+- Do their politics
+  - Who is the auditor?
+- If it can give you your messages back be skeptical.
+
+5 threat modeling question Measure the Risk (Don't use militarized language)
+- What do I want to keep safe
+- Who do I want to keep it safe from
+- What methods do they have
+- What would happen if they got it
+- What could you do to prevent that
