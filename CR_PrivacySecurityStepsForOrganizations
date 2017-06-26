@@ -1,0 +1,58 @@
+Steps to secure your organization @gemeniimatt
+
+protectyourorg
+
+You aren't just protecting yourself. Protecting people who are connected to you.
+
+Tell the people closest to you they should do it to protect you, too.
+
+1)Know Whats Out There
+Check Data Broker Sites
+  - pipl
+  - spokeo
+
+PrivacyRights.Org
+Change you info and see how it propagates
+
+2)Org should have a Digital Security Policy
+  In language that you can understand when you're in a panic
+
+3)Org Data Retention & Email Retention Policy
+  "Why am I not throwing this data out?"
+  Keep should not be the default. Download and Store Offline, Expire it
+  google.com/takeout - download things that have certain labels
+  google vault
+  myactivity.google.com / regular deletes
+  maps.google.com/locationhistory - trash can
+  safe places
+    - encrypted hard drives (can get physically) Aegis Secure
+      - has a duress code
+    - Keep in mind that software encryption means you have to have access to that software in perpetuity.
+    - Secure delete doesn't work on SSD drives
+    - Be careful of where the data touches
+    - Encrypted Cloud Look for a zero knowledge service
+      - (Do be aware of Hash matches),
+      - SpiderOak (groups)(caveat US company)
+      - tresorit (swiss)
+      - DIY
+        - owncloud.org
+        - nextcloud.com (owncloud employees with artistic differences)
+
+4)Incident Response Plan
+  Scenario planning
+  e.g. secondary accounts that everyone already follows
+  When do I tell board, legal team
+    - Physical Security
+      - Salient Eye
+    - Whats encrypted
+    - Whats trackable / remote disable
+      - preyproject.com, spyware by choice
+
+Tangent about camera
+        - flexispy
+        - nsogroup
+
+5)
+
+
+TIL: Facebook has an onion site?
